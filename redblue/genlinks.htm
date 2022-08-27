@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-HK" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Microsoft JhengHei', 'PingFang', 'Noto Sans HK', sans-serif;">
+
+<head>
+    <title>APPY4005 Cognitive Psychology</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="index.css">
+
+
+</head>
+
+<body>
+
+    <script src="vs8/vs8.js"></script>
+    <script>
+        let table = add({
+            tag: 'table'
+        });
+        for (let i = 0; i < 50; i++) {
+            let query = {
+                id: unique_id(),
+                orifirst: i % 2
+            };
+            let url = create_url_params(query);
+            let tr = add({
+                ele: table,
+                tag: 'tr'
+            });
+            add({
+                ele: tr,
+                tag: 'td',
+                text: 'https://gc.nsupdate.info/vsl2/?' + url
+            });
+        }
+    </script>
+
+
+</body>
+
+</html>

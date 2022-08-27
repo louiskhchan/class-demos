@@ -25,3 +25,12 @@ Visual sensory memory is also called [iconic memory](https://www.simplypsycholog
 
 This paradigm is not immediately straightforward for some students, so I wrote my <ins>[own version](https://louiskhchan.github.io/class-demos/sperling/index.htm?id=testuser)</ins> and made it an online experiment for my students to try it themselves. In the experiment, you have to report a row of letters among other rows. However, the indicator that tells you which row to answer comes shortly after the disappearance of the letters. Experiment results show that the indicator is still useful even so. It means that the sensory memory of the letters is still there when the indicator shows up.
 
+
+## Temporal integration of colour and consciousness
+
+This demo demonstrates the temporal limit that we can distinguish two colours. Click on the <ins>[demo](https://louiskhchan.github.io/class-demos/redblue/index.htm)</ins>, and you will see that as two colours flash more quickly, the two colours start to fuse, and you can no longer see the original colours.
+
+This demo is also related to a subtle distinction between our brain process and conscious awareness. A study by [Gur and Snodderly (1997)](https://www.sciencedirect.com/science/article/pii/S0042698996001836?via%3Dihub) used this stimulus to show that the temporal limit of separating colours by V1 cells in monkeys' brains is higher than that of the subjective report of the monkey. This result indicates that we are not conscious of everything that our brains can encode.
+
+
+
