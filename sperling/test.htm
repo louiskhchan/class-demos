@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-HK"
+    style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Microsoft JhengHei', 'PingFang', 'Noto Sans HK', sans-serif;">
+
+<head>
+    <title>Test place</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <!-- <script src="chroma.min.js"></script> -->
+    <script src="vs8/vs8.js"></script>
+    <script src="vs8/vs8_expt.js"></script>
+    <script src="vs8/vs8_expt_html.js"></script>
+    <script src="vs8/vs8_expt_draw.js"></script>
+    <script src="vs8/vs8_media.js"></script>
+    <script>
+        function hexToRgb(hex) {
+            // Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
+            var shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
+            hex = hex.replace(shorthandRegex, function (m, r, g, b) {
+                return r + r + g + g + b + b;
+            });
+
+            var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+            return result ? {
+                r: parseInt(result[1], 16),
+                g: parseInt(result[2], 16),
+                b: parseInt(result[3], 16)
+            } : null;
+        }
+        function luminance(hex) {
+            let rgb = hexToRgb(hex);
+            return Math.sqrt(0.299 * rgb.r * rgb.r + 0.587 * rgb.g * rgb.g + 0.114 * rgb.b * rgb.b);
+        }
+
+
+
+
+    </script>
+
+
+</body>
+
+</html>
