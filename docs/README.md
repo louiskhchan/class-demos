@@ -4,7 +4,7 @@ I used plain JavaScript and the [Canvas API](https://developer.mozilla.org/en-US
 
 ## Simon effect
 
-The Simon effect is a kind of response compatibility effect. It says that when you respond to a property (e.g., the color of an object) using your left and right hands, you are likely doing it quicker and better if the object appears at the same side of response. If it appears at the opposite side, your responses are slower and more erroneous. 
+The Simon effect is a kind of response compatibility effect. It says that when you respond to a property (e.g., the color of an object) using your left and right hands, you are likely to do it quicker and better if the object appears on the same side of the response. If it appears on the opposite side, your responses are slower and more erroneous. 
 
 This is the [demo](simon_effect/index.htm) I made for my classes. Give it a try and see whether it works for you!
 
