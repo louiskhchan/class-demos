@@ -20,11 +20,11 @@ This is a [demo](https://louiskhchan.github.io/class-demos/simon_effect/) of the
 
 The [Composite face effect](https://link.springer.com/article/10.3758/s13423-016-1131-5) is a face perception phenomenon that demonstrates that we tend to see a face as a whole. As a result, it is generally challenging to focus on one part of a face while ignoring the rest. The composite face effect says that when you are asked to focus only on the top part of a face, your recognition is disturbed by the bottom part of the face. For example, in the above faces (the left pair), the top halves of the faces are all identical, but they *might* look slightly different since we automatically take the bottom half of the face (which is changed) into account. However, if the face halves are misaligned (the right pair), this effect goes away because the misalignment stops our brains from treating the image as a whole 'face'.
 
-I wrote a demo experiment of this effect for my class using JavaScript and HTML5 Canvas. You can take a look at the [demo experiment](https://louiskhchan.github.io/class-demos/composite_effect/). 
+I wrote a demo experiment of this effect for my class using JavaScript and HTML5 Canvas. You can take a look at the [demo experiment](https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser). 
 
-[Try this demo](https://louiskhchan.github.io/class-demos/composite_effect/)
+[Try this demo](https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser)
 
-<a href='https://louiskhchan.github.io/class-demos/composite_effect/'><img src='composite.gif' width='500' /> </a>
+<a href='https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser'><img src='composite.gif' width='500' /> </a>
 
 
 ## Visual sensory memory
