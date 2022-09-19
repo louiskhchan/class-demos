@@ -11,7 +11,8 @@ This is a [demo](https://louiskhchan.github.io/class-demos/simon_effect/) of the
 
 [Try this demo](https://louiskhchan.github.io/class-demos/simon_effect/)
 
-<a href='https://louiskhchan.github.io/class-demos/simon_effect/'><img src='simon.gif' width='500' /> </a>
+|<a href='https://louiskhchan.github.io/class-demos/simon_effect/'><img src='simon.gif' width='500' /> </a>|
+|--|
 
 
 ## Composite face effect
@@ -24,7 +25,9 @@ I wrote a demo experiment of this effect for my class using JavaScript and HTML5
 
 [Try this demo](https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser)
 
-<a href='https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser'><img src='composite.gif' width='500' /> </a>
+|<a href='https://louiskhchan.github.io/class-demos/composite_effect/index.htm?id=testuser'><img src='composite.gif' width='500' /> </a>|
+|--|
+
 
 
 ## Visual sensory memory
@@ -35,7 +38,9 @@ This paradigm is not immediately straightforward for some students, so I wrote m
 
 [Try this demo](https://louiskhchan.github.io/class-demos/sperling/index.htm?id=testuser)
 
-<a href='https://louiskhchan.github.io/class-demos/sperling/index.htm?id=testuser'><img src='sperling.gif' width='500' /> </a>
+|<a href='https://louiskhchan.github.io/class-demos/sperling/index.htm?id=testuser'><img src='sperling.gif' width='500' /> </a>|
+|--|
+
 
 
 
@@ -47,7 +52,9 @@ This demo is related to a subtle distinction between our brain process and consc
 
 [Try this demo](https://louiskhchan.github.io/class-demos/redblue/index.htm)
 
-<a href='https://louiskhchan.github.io/class-demos/redblue/index.htm'><img src='redblue.gif' width='400' /> </a>
-(This GIF won't show the correct effect due to the limitations of GIFs. Click on the link to see the right effect.)
+|<a href='https://louiskhchan.github.io/class-demos/redblue/index.htm'><img src='redblue.gif' width='400' /> </a>|
+|--|
+
+(This GIF won't work correctly due to the limitations of GIFs. Click on the link to see the right effect.)
 
 
